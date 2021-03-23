@@ -117,6 +117,10 @@ Supercell的作品多以<u>Mid-Core</u>游戏作为核心，同时目前的产�
 
 <br>
 
+## 内容及收费模式
+---
+
+
 
 ## 参考资料
 ---
@@ -133,3 +137,5 @@ Supercell的“十年总结”：https://zhuanlan.zhihu.com/p/141728936?from_vot
 SuperCell：颠覆组织结构 决策交给团队：https://www.gameres.com/253287.html
 
 Supercell前分析总监：从创意到研发，如何打造一款游戏？：https://www.gameres.com/869358.html
+
+SUPERCELL式内容&付费结构框架: https://zhuanlan.zhihu.com/p/81938179
