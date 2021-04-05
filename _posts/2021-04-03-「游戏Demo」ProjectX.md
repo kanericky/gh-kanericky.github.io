@@ -33,8 +33,10 @@ FPS, Multiplater, Time travel, competition,
 - Analyze the fifth level of TitanFall2
 - Confirm the type of the game demo ---- FPS
 
-
+![1][poster]
 
 
 # 参考文档 ｜ References
 ---
+
+[poster]: https://github.com/kanericky/kanericky.github.io/blob/master/_posts/Pictures/BrainStorm01.png?raw=true
