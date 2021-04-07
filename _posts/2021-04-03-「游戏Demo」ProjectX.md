@@ -22,6 +22,7 @@ FPS, Multiplater, Time travel, competition,
 ---
 
 ## 2021.04.03 项目立项 Program Establish
+探索整个项目的可能性。该项目的目的是为了尝试复原泰坦陨落2第五关并进行一些实验性的创新。
 
 - 头脑风暴 
 - 泰坦陨落2第五关分析
@@ -29,14 +30,26 @@ FPS, Multiplater, Time travel, competition,
 
 <br>
 
+Discovery the possiblity of this project / idea. The aim of this program is trying to make the fifth level of TitanFall2 by myself and taking serval experimental innovation on the gameplay.
+
 - BrainStorm
 - Analyze the fifth level of TitanFall2
 - Confirm the type of the game demo ---- FPS
 
-![1][poster]
+![1][poster00]
 
+## 2021.04.07 Unity3D FPS模版分析 Analyze Template
+分析整个Unity3D FPS模版的源码，协助了解各个功能模块
+Analyze the source code of Unity3D's FPS template to enhence understanding different modules.
+
+![2][poster01]
 
 # 参考文档 ｜ References
 ---
 
-[poster]: https://github.com/kanericky/kanericky.github.io/blob/master/_posts/Pictures/BrainStorm01.png?raw=true
+Creating an FPS Wall Run Mechanic: https://www.youtube.com/watch?v=qOVtucXxb1E
+
+
+[poster00]: https://github.com/kanericky/kanericky.github.io/blob/master/_posts/Pictures/BrainStorm01.png?raw=true
+
+[poster01]: https://github.com/kanericky/kanericky.github.io/blob/master/_posts/Pictures/CodeAnaylze01.png?raw=true
