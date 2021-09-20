@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://kanericky.github.io/sitemap.xml
