@@ -1,6 +1,6 @@
 ---
 title: Notes For Level Design
-date: 2021-20-08 18:30:00 +0800
+date: 2021-08-20 18:30:00 +0800
 categories: [游戏设计, Game Design]
 tags: [Level Design, game, notes]     # TAG names should always be lowercase
 ---
